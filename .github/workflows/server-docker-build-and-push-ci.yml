@@ -31,4 +31,4 @@ jobs:
         with:
           context: ./server
           push: true
-          tags: BenjaminDexantcd/docker-github-actions-quest2:latest
+          tags: benjamindexant/docker-github-actions-quest2:latest
